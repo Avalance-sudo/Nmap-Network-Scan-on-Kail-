@@ -1,5 +1,5 @@
 # Nmap-Network-Scan-on-Kail-
-# Scanning-Network-with-Nmap-on-Kali-Linux
+
 
 # Project Overview
 This project provides an introduction to Nmap, a powerful and widely used network scanning tool, along with practical examples of how to use it for network discovery, service/version detection. The included commands demonstrate common Nmap usage scenarios that are essential for network administrators. 
